@@ -1,0 +1,20 @@
+{
+  "author": "Crypto Fanatic",
+  "bundleDependencies": false,
+  "dependencies": {
+    "dotenv": "^11.0.0",
+    "env-process": "^1.0.2",
+    "ethers": "^5.5.3",
+    "prompt-sync": "^4.2.0"
+  },
+  "deprecated": false,
+  "description": "Access Env Process variables",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "sniper-light",
+  "scripts": {
+    "start": "node buy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
